@@ -14,7 +14,7 @@ responses['data'][0]
 responses['data'][27]
 responses['data'][100]
 
-# Get specific data individually using API response objects?
+# Get specific data individually using API response objects
 responses['data'][0]['author']
 responses['data'][0]['category']
 responses['data'][0]['country']

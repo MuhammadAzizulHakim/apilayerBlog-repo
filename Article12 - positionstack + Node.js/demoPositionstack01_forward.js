@@ -1,6 +1,6 @@
 const axios = require('axios');
 const params = {
-  access_key: 'afa4899f8e81f951909ef6227a3b4967',
+  access_key: 'YOUR_ACCESS_KEY',
   query: '1600 Pennsylvania Ave NW, Washington DC'
 }
 

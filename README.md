@@ -10,5 +10,9 @@ Here is the list of published articles:
 3. [Supercharge Your User Experience With Python And GEO IP REST Services](https://blog.apilayer.com/supercharge-your-user-experience-with-python-and-geo-ip-rest-services/)
 
 4. [Easily Spider Websites Using Node.js And Powerful REST APIs](https://blog.apilayer.com/easily-spider-websites-using-node-js-and-powerful-rest-apis/) 
-  
+
+5. [Easily Monitor Google Search Results Using Node.js](https://blog.apilayer.com/easily-monitor-google-search-results-using-node-js/)
+
+6. [Easily Build Your Own Search Engine Using A JavaScript API](https://blog.apilayer.com/easily-build-your-own-search-engine-using-a-javascript-api/)
+
 Powered by [apilayer](https://apilayer.com/).

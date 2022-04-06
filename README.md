@@ -17,4 +17,10 @@ Here is the list of published articles:
 
 7. [Easily Monitor Cryptocurrency Prices Using Python And REST Services](https://blog.apilayer.com/easily-monitor-cryptocurrency-prices-using-python-and-rest-services/)
 
+8. [How To Access Exchange Rates And Currency Conversion With Python](https://blog.apilayer.com/how-to-access-exchange-rates-and-currency-conversion-with-python/)
+
+9. [Ultimate Guide To Google Cloud IoT Core And APIs With Node.js](https://blog.apilayer.com/ultimate-guide-to-google-cloud-iot-core-and-apis-with-node-js/)
+
+10. [How To Empower Google Cloud IoT Core With Geolocation REST API](https://blog.apilayer.com/how-to-empower-google-cloud-iot-core-with-geolocation-rest-api/)
+
 Powered by [apilayer](https://apilayer.com/).

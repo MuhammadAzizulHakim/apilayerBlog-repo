@@ -15,4 +15,6 @@ Here is the list of published articles:
 
 6. [Easily Build Your Own Search Engine Using A JavaScript API](https://blog.apilayer.com/easily-build-your-own-search-engine-using-a-javascript-api/)
 
+7. [Easily Monitor Cryptocurrency Prices Using Python And REST Services](https://blog.apilayer.com/easily-monitor-cryptocurrency-prices-using-python-and-rest-services/)
+
 Powered by [apilayer](https://apilayer.com/).

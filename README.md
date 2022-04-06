@@ -23,4 +23,14 @@ Here is the list of published articles:
 
 10. [How To Empower Google Cloud IoT Core With Geolocation REST API](https://blog.apilayer.com/how-to-empower-google-cloud-iot-core-with-geolocation-rest-api/)
 
+11. [Ultimate Guide To Integrate apilayer And Google Cloud IoT Core Locally on Windows](https://blog.apilayer.com/ultimate-guide-to-integrate-apilayer-and-google-cloud-iot-core-locally-on-windows/)
+
+12. [How To Get Started With Powerful A Geo API Service Using NodeJS](https://blog.apilayer.com/how-to-get-started-with-powerful-a-geo-api-service-using-nodejs/)
+
+13. [How To Automate News Scraping With Python And APIs](https://blog.apilayer.com/how-to-make-news-scraping-automation-with-mediastack-api-and-python/)
+
+14. [9 Ways To Do Advanced News Scraping With Python And APIs](https://blog.apilayer.com/9-ways-to-do-advanced-news-scraping-with-python-and-apis/)
+
+15. [How To Make A Live News Apps With React And A News API](https://blog.apilayer.com/how-to-make-live-news-apps-with-mediastack-api-and-react-js/)
+
 Powered by [apilayer](https://apilayer.com/).

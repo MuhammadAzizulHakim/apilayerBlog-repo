@@ -33,4 +33,6 @@ Here is the list of published articles:
 
 15. [How To Make A Live News Apps With React And A News API](https://blog.apilayer.com/how-to-make-live-news-apps-with-mediastack-api-and-react-js/)
 
+16. [How To Automatically Discover The Emotions In Tweets With Python](https://blog.apilayer.com/how-to-automatically-discover-the-emotions-in-tweets-with-python-and-text-to-emotion-api/)
+
 Powered by [apilayer](https://apilayer.com/).

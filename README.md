@@ -35,4 +35,6 @@ Here is the list of published articles:
 
 16. [How To Automatically Discover The Emotions In Tweets With Python](https://blog.apilayer.com/how-to-automatically-discover-the-emotions-in-tweets-with-python-and-text-to-emotion-api/)
 
+17. [How To Do Profanity Filter With Pure Python vs. REST API](https://blog.apilayer.com/how-to-do-profanity-filter-with-pure-python-vs-rest-api/)
+
 Powered by [apilayer](https://apilayer.com/).
